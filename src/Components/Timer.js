@@ -10,7 +10,7 @@ function Timer() {
 
   return (
       <div>
-          <p>{`Current time is ${time.toString()}`}</p>
+          <h1>{`Time:${time.toString()}`}</h1>
     </div>
   )
 }
